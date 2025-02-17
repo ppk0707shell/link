@@ -19,15 +19,18 @@ body {
 
 /* Header */
 .header {
-    margin-bottom: 2rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    
 }
 
 .header img {
-    width: 70%;
-    height: 12rem;
+    width: 90%;
+    /* height: 12rem;
     object-fit: cover;
     border-radius: 0.5rem;
-    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1); */
 }
 
 /* Links section */
