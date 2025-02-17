@@ -23,7 +23,7 @@ body {
 }
 
 .header img {
-    width: 100%;
+    width: 70%;
     height: 12rem;
     object-fit: cover;
     border-radius: 0.5rem;
